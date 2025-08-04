@@ -49,4 +49,5 @@ The toolbox supports common satellite gravity data grid resolutions:
 
 - **Author**: [Xiaohui Wu]
 - **Email**: [wuxiaohui@cug.edu.cn]
+
 - **Institution**: [China University of GeoSciences, Wuhan]
